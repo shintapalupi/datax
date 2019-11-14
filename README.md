@@ -1,2 +1,2 @@
 # datax
-Data examples
+Data examples for anything
