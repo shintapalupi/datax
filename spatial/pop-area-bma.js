@@ -9,6 +9,7 @@
 	2015 Finish this mixed array.
 	2037 Upload to Github in datax/spatial folder.
 	2038 Change wrong folder name.
+	2045 Change some tabs to spaces.
 */
 
 // Regency/City, District, Population, Area (km)
@@ -44,9 +45,9 @@ var BMA = [
 ["Kota Bandung", "Sukasari", 83851, 6.28],
 ["Kota Bandung", "Cidadap", 60275, 8.28],
 
-["Kota Cimahi", "Cimahi Selatan",	277686,	16.35],
-["Kota Cimahi", "Cimahi Tengah",	153737,	10.8],
-["Kota Cimahi", "Cimahi Utara",	175276,	13.58],
+["Kota Cimahi", "Cimahi Selatan", 277686, 16.35],
+["Kota Cimahi", "Cimahi Tengah", 153737, 10.8],
+["Kota Cimahi", "Cimahi Utara", 175276, 13.58],
 
 ["Kabupaten Bandung Barat", "Rongga", 60840, 117.06],
 ["Kabupaten Bandung Barat", "Gununghulu", 83090, 166.53],
