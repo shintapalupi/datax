@@ -9,6 +9,8 @@
 	2049 Start to write the matrix from image.
 	2112 Get half of the rows.
 	2130 Finish and upload.
+	20200417
+	1921 Add comment that the source is still unclear.
 */
 
 // Origin (row) - Destination (column) matrix
