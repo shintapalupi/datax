@@ -1,5 +1,5 @@
 /*
-	org-dest-matrix.js
+	org-dest-matrix-bma.js
 	Matrix of origin-destination of regions in BMA
 	
 	Tatang Suheri (source of data)
