@@ -6,7 +6,7 @@ Observation data of soybean (Glycine max) from various source about height growt
 The data is classified according to plant variety (or cultivar).
 
 ### var. Anjasmoro
-1. Jatinangor, Indonesia, 2020 | 2020xxyy
+1. Jatinangor, Indonesia, 2020 | [2020xxyy-0](2020xxyy-0)
 
 ### cv. BMX Ícone
 1. Rio Grande do Sul, Brazil, 2017, SWT = 10 kPA | [20200425-0](20200425-0.js)
