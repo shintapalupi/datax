@@ -15,20 +15,21 @@
 	References
 	1. Pâmela de Andrades Timm, Marília Alves Brito Pinto, José
 	   Maria Barbat Parfitt, Germani Concenço, Alexssandra
-		 Dayanne Soares de Campos, Thayse do Amaral Aires,
-		 Jaqueline Trombetta da Silva, Lessandro Coll Faria,
-		 "Initial Growth and Roots Development of Soybean as
-		 Function of Water Availability and Soil Bulk Density",
-		 Journal of Agricultural Science [J. Agric. Sci.], vol. 11,
-		 no. 16,  pp. 213-222, Sep 2019, url
-		 https://doi.org/10.5539/jas.v11n16p213
+	   Dayanne Soares de Campos, Thayse do Amaral Aires,
+	   Jaqueline Trombetta da Silva, Lessandro Coll Faria,
+	   "Initial Growth and Roots Development of Soybean as
+	   Function of Water Availability and Soil Bulk Density",
+	   Journal of Agricultural Science [J. Agric. Sci.], vol. 11,
+	   no. 16,  pp. 213-222, Sep 2019, url
+	   https://doi.org/10.5539/jas.v11n16p213
 	2. Ankit Rohatgi, "WebPlotDigitizer: Web based tool to
 	   extract data from plots, images, and maps", Version 4.2
-		 Released (April 7, 2019), url
-		 https://automeris.io/WebPlotDigitizer [20200425]
+	   Released (April 7, 2019), url
+	   https://automeris.io/WebPlotDigitizer [20200425]
 	3. Cindy Haynes, "Cultivar versus Variety", Horticulture and
-	   Home Pest News, Iowa State University, 6 Feb 2008, url https://hortnews.extension.iastate.edu/2008/2-6
-		 /CultivarOrVariety.html [20200425]
+	   Home Pest News, Iowa State University, 6 Feb 2008, url
+	   https://hortnews.extension.iastate.edu/2008/2-6
+	   /CultivarOrVariety.html [20200425]
 */
 
 
