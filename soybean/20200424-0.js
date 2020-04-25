@@ -15,14 +15,15 @@
 	0802 Rename it to 20200424-0.
 	0840 Add environment, place(?), date(?) information.
 	0841 Push object to main array.
+	1617 Add right place and date from Dinda Raraswati.
 */
 
 var soybean = {
 	species: "Glycine max",
 	variety: "Detam-1",
 	environment: "open field",
-	place: "Jatinangor, Indonesia",
-	date: "2020",
+	place: "Tanjungsari, Indonesia",
+	date: "15 August 2019",
 	age: {
 		unit: "week",
 		value: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
