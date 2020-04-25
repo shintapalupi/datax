@@ -12,11 +12,10 @@ The data is classified according to plant variety (or cultivar).
 ### var. Anjasmoro
 1. Jatinangor, Indonesia | 2020xxyy
 
-### Detam-1
+### var. Detam-1
 1. Jatinangor, Indonesia | [20200424-0](20200424-0.js)
 
 
 ## Fomat
 JavaScript (JS) object is chosen as the form in storing the observation data for further process.
-
 
