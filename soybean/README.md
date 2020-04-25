@@ -1,5 +1,5 @@
 # Soybean
-Observation data of soybean (Glycine max) from various source about height growth as function of time.
+Observation data of soybean (Glycine max) from various source about height growth, number of leaves, and other parameters as function of time.
 
 ## Brazil
 1. Rio Grande do Sul, cv. BMX Ícone, SWT = 10 kPA | [20200425-0](20200425-0.js)
