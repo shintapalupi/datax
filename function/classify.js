@@ -9,6 +9,10 @@
 	2003 Fix the problem.
 	2012 Move the function from uniform.js file.
 	2013 Note To-Do in normalize the result.
+	2020 Add note from [1] about using reduce().
+	
+	References
+	1. https://stackoverflow.com/a/3762623/9475509 19 Mar 2019.
 */
 
 
