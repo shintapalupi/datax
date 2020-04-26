@@ -7,6 +7,8 @@
 	20200426
 	1910 Start this function (again).
 	1938 Finish dataUniform and classify functions.
+	1953 Find problem with the last group in distribution.
+	2003 Fix the problem.
 */
 
 
@@ -50,9 +52,11 @@ function classify(data, N, min, max) {
 	
 	var M = data.length;
 	for(var i = 0; i < M; i++) {
-		var j = Math.floor((data[i] - min) / dx)
+		var j = Math.floor((data[i] - xmin) / dx)
 		if(j < y.length) {
 			y[j]++;
+		} else {
+			y[y.length-1]++;
 		}
 	}
 	
